@@ -63,7 +63,7 @@ body {
 /* Main Section */
 .main-section {
   background-image: url(assets/logo.jfif);
-  height: 100vh;
+  height: auto;
   background-size: cover;
   background-attachment: fixed; /* Keeps the background fixed */
   background-position: center;
